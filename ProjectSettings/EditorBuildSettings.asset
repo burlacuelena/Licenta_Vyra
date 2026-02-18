@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SignUpScene.unity
     guid: 5d9e4f5db18d11d4c863abaab37b5103
+  - enabled: 1
+    path: Assets/Scenes/SignInScene.unity
+    guid: 785c4306767014a47bbbe3f6cf8d2834
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 585579621c01ed442866129f08549c84, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2de7d7eeb602eec4f853a799f4a292fe, type: 2}
